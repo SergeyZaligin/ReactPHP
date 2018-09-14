@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "reactphp\\": ""
+    }
+  },
+    "require": {
+        "react/event-loop": "^1.0",
+    "react/promise": "^2.7"
+    }
+}
